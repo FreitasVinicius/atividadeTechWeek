@@ -10,7 +10,7 @@
 ## Parte 1: Registro das Atividades
 
 ### Atividade 1: Google + IBM
-* **Título da atividade:** Tech Week XII - Dia 2: Google + IBM (Palestra: *E se você pudesse conversar com o seu caderno?*)
+* **Título da atividade:** Tech Week XII - Dia 2: Google + IBM 
 * **Data e horário:** 16 de setembro de 2026, às 19h00
 * **Palestrante:** Marcelo Pereira e Adriana Petendil (Google Cloud)
 * **descrição:** Apresentação focada no uso da inteligência artificial generativa no contexto educacional por meio da ferramenta *NotebookLM* do Google. Foi demonstrado como carregar materiais de estudo próprios (PDFs, notas, links) para interagir com a IA. Como a ferramenta consulta estritamente os documentos fornecidos pelo usuário, ela garante um foco restrito que elimina alucinações de respostas e permite gerar resumos ou tirar dúvidas diretamente da fonte.
@@ -19,7 +19,7 @@
 ---
 
 ### Atividade 2: Globo + Oracle
-* **Título da atividade:** Tech Week XII - Dia 3: Globo + Oracle (Palestra: *Os Bastidores da Inteligência Artificial na Globo*)
+* **Título da atividade:** Tech Week XII - Dia 3: Globo + Oracle 
 * **Data e horário:** 17 de setembro de 2026, às 19h00
 * **Palestrante:** Mateus, Karen, Priscila e equipe da Academia LED / Globo
 * **descrição:** Os palestrantes mostraram os bastidores da aplicação de inteligência artificial e efeitos visuais/VFX no processo de produção de conteúdo da Globo. Foi exemplificado o uso da IA para simulações visuais complexas, como a geração de chamas e fumaça em cenas que envolvem crianças em estúdio (onde o uso de fogo real é proibido por lei), permitindo criar e integrar elementos gráficos sobre a gravação original de forma ágil e segura.
